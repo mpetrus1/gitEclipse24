@@ -52,5 +52,6 @@ public class InventariBotiga {
 
         // Tancar el scanner
         scanner.close();
+        System.out.println("Final del programa");
     }
 }
